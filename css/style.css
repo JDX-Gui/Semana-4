@@ -1,0 +1,52 @@
+body {
+    background-image: url(https://dandysbarber.ch/wp-content/uploads/2014/07/Dark-Chalkboard.jpg);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.fixed-top {
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    position: fixed;
+    background-color: black;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
+    font-size: 20px;
+    right: 0;
+}
+
+.Subtitulo {
+    text-align: center;
+    font-size: 17px;
+    font-style: oblique;
+    font-weight: bolder;
+}
+
+h3 {
+    font-size: large;
+    padding-left: 50px;
+    padding-right: 50px;
+    display: inline;
+    color: white;
+    text-align: center;
+    vertical-align: auto;
+}
+
+h2 {
+    color: yellowgreen;
+    text-align: center;
+}
+
+p {
+    display: inline;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.Rodape {
+    color: rgb(243, 236, 236);
+    text-align: center;
+    background-image: url(https://www.sysemp.com.br/wp-content/uploads/2017/07/fundo_slider_4.jpg);
+}
